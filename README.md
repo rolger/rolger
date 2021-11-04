@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Reach me on all social networks about #TechnicalAgileCoaching, #Refactroing and #TDD.
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rolgr&show_icons=true)]
