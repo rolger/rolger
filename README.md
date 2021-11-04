@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Reach me on all social networks about #TechnicalAgileCoaching, #Refactroing and #TDD.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rolgr&show_icons=true)]
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rolger&show_icons=true)]
